@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HedrisTemmyTop
-- 👀 I’m interested in JavaScript, React and Next
--  🌱 I’m currently learning React native & Typescript
-- 💞️ I’m looking to collaborate on backend devs and ui designers to solve any problem
+- 👀 I’m interested in JavaScript,Typescript and React
+-  🌱 I’m currently exploring more in frontend development
+- 💞️ I’m looking to collaborate on backend devs and ui designers to solve build innovative solutions that meet clients needs
 - 📫 How to reach me 📧: hedristemitope2001@gmail.com ||phone: 08161126466 || twitter: HedrisTemmyTop
 
 <!---
